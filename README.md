@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Michael 
+# Hi 👋 I'm Michael 
 Full stack web developer. 
 I code beautifully simple things, and I love what I do. 
 
