@@ -2,11 +2,11 @@
 Full stack web developer. 
 I code beautifully simple things, and I love what I do. 
 
-📫 How to reach me: 0.toasty-phaser@icloud.com
-
 ## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,javascript,html,css,sass,bootstrap,jquery,aws,php,wordpress,photoshop)](https://elitewebmaster.com)
+
+📫 How to reach me: 0.toasty-phaser@icloud.com
 
 <!--
 **elitewebmaster/elitewebmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
