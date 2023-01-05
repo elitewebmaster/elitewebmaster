@@ -4,7 +4,7 @@ I code beautifully simple things, and I :hearts: what I do.**
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,javascript,html,css,sass,bootstrap,jquery,aws,php,wordpress,photoshop)](https://elitewebmaster.com)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,javascript,html,css,sass,bootstrap,jquery,aws,php,photoshop)](https://elitewebmaster.com)
 
 
 📫 How to reach me: 0.toasty-phaser@icloud.com
