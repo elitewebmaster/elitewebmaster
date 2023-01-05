@@ -1,6 +1,6 @@
 # Hi 👋 I'm Michael 
-:computer: Full stack web developer. 
-I code beautifully simple things, and I :hearts: what I do. 
+**:computer: Full stack web developer. 
+I code beautifully simple things, and I :hearts: what I do.**
 
 ## My Skills
 
