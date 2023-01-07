@@ -1,4 +1,4 @@
-# Hi 👋 I'm Michael 
+# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" /> I'm Michael 
 **:computer: Full stack web developer. 
 I code beautifully simple things, and I :hearts: what I do.**
 
@@ -6,8 +6,8 @@ I code beautifully simple things, and I :hearts: what I do.**
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,javascript,html,css,sass,bootstrap,jquery,mongodb,aws,php,photoshop)](https://elitewebmaster.com)
 
-
 📫 How to reach me: 0.toasty-phaser@icloud.com
+
 
 <!--
 **elitewebmaster/elitewebmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
