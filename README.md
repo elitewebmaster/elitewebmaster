@@ -1,5 +1,5 @@
 # Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" /> I'm Michael 
-**:computer: Full stack web developer. 
+**:computer: Web Developer. 
 I code beautifully simple things, and I :hearts: what I do.**
 
 ## My Skills
